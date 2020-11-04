@@ -1,0 +1,2 @@
+.movies{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));grid-gap:20px;gap:20px}.card-image img{object-fit:contain}textarea{resize:none!important}.ui.input{padding:0!important}.field.error{position:relative}.ui.red.pointing.below.basic.label{position:absolute!important;left:60px;bottom:31px}.page{display:grid;grid-template:auto/1fr 400px;grid-column-gap:20px;-webkit-column-gap:20px;column-gap:20px;min-height:100vh}.page-content,.sidebar{padding:20px}.sidebar{border-left:1px solid #d3d3d3}
+/*# sourceMappingURL=main.96137923.chunk.css.map */
